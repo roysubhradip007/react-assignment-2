@@ -1,0 +1,21 @@
+.container{
+    background: rgb(245, 73, 73);
+    height: 500px;
+    width: 500px;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+p{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+button{
+    height: 5rem;
+    width: 8rem;
+    font-weight: 600;
+    margin: 1rem;
+}
